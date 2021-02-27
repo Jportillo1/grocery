@@ -1,26 +1,47 @@
 ## Welcome to GitHub Pages
 
 [Shop for Groceries](Shop-Groceries.html)
+
 [Apply For Jobs](Apply-For-Jobs.html)
+
 [Bag Groceries](Bag-Groceries.html)
+
 [Checkout Groceries](Checkout-Groceries.html)
+
 [Choose CC](Choose-CC.html)
+
 [Choose Store](Choose-Store.html)
+
 [Company Details](Company-Details.html)
+
 [Compare Items](Compare-Items.html)
+
 [Complain](Complain.html)
+
 [Customer Service](Customer-Service.html)
+
 [Go to Cart](Go-to-Cart.html)
+
 [Pay](Pay.html)
+
 [Rate Items](Rate-Items.html)
+
 [Reciept](Reciept.html)
+
 [Redeem Coupons](Redeem-Coupons.html)
+
 [Register](Register.html)
+
 [Return Items](Return-Items.html)
+
 [Sign In](Sign-In.html)
+
 [Sign Out](Sign-Out.html)
+
 [Track Orders](Track-Orders.html)
+
 [Update App](Update-App.html)
+
 [Verify Age](Verify-Age.html)
 
 
